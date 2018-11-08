@@ -1,4 +1,4 @@
-prestaShopVersion=1.7.4.3
+prestaShopVersion=1.7.4.4
 
 #Download Prestashop
 echo "Downloading Prestashop"
